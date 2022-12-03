@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(
-    name="freesound-python",
+    name="freesound-api",
     version="1.1",
     py_modules=["freesound"],
     install_requires=["requests<3.0,>2.27"],
